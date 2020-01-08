@@ -1,0 +1,32 @@
+.Calculator {
+    margin: 20px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    width: max-content;
+}
+
+.Result {
+    margin: inherit;
+    border: 1px solid lightgray;
+    border-redius: 5px;
+    height: 50px;
+}
+
+.Operations {
+    font-weight: 200;
+    min-height:20px;
+}
+
+.Total {
+    font-weight: 500;
+}
+
+.Result div {
+    text-align: right;
+    padding-right: 5px;
+}
+
+.DigitPad {
+    padding: 0px;
+    margin: 15px;
+}
